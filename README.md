@@ -8,11 +8,11 @@ A tutorial on how to lookup phone numbers stored in a CSV file and output the de
 ## 🎬 Getting started
 
 ```javascript
-# clone this repository
+// clone this repository
 git@github.com:messagemedia/lookups-nodejs-tutorial.git
-# change to folder
+// change to folder
 cd lookups-nodejs-tutorial
-# install dependencies
+// install dependencies
 npm install
 ```
 
