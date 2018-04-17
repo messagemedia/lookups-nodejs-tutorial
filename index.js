@@ -2,6 +2,7 @@ var csv = require('csv-parser');
 var fs = require('fs');
 var request = require('request');
 
+// Update the key and secret with your actual ones
 var key = "xx";
 var secret = "yy";
 var auth = "Basic " + new Buffer(key + ":" + secret).toString("base64");
