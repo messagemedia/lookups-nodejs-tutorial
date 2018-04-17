@@ -2,7 +2,7 @@
 A tutorial on how to lookup phone numbers stored in a CSV file and output the details into a separate CSV file.
 
 ## ⌛️ Prerequisites
-* A [MessageMedia developers account](https://developers.messagemedia.com/register)
+* [A MessageMedia developers account](https://developers.messagemedia.com/register)
 * [Node](https://nodejs.org/en/)
 
 ## 🎬 Getting started
