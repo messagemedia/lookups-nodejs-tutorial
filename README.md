@@ -1,5 +1,5 @@
 # Lookups Node.js Tutorial
-A tutorial on how to lookup phone numbers stored in a CSV file and output the details into a separate CSV file.
+Start-up code on how to lookup phone numbers stored in a CSV file and output the details into a separate CSV file.
 
 ## ⌛️ Prerequisites
 * [A MessageMedia developers account](https://developers.messagemedia.com/register)
