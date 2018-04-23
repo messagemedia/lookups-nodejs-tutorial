@@ -16,7 +16,7 @@ cd lookups-nodejs-tutorial
 npm install
 ```
 
-Next you will need to sign up for a MM Developers account, get your API credentials and put them in the index.js file.
+Next you will need to sign up for a MessageMedia Developers account, get your API credentials and put them in the index.js file.
 
 Then you can run your app.
 ```
